@@ -1,1 +1,1 @@
-echo web: gunicorn app:app 
+echo web: gunicorn Kmeans_model:app 
