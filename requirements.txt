@@ -1,5 +1,5 @@
 pandas
 gunicorn
 streamlit
-joblib
-sklearn==0.22
+joblib==1.1.0
+sklearn==0.22.2
