@@ -1,4 +1,4 @@
-pandas
-gunicorn
 streamlit
-scikit-learn==0.24.2
+pandas
+pickle
+scikit-learn
